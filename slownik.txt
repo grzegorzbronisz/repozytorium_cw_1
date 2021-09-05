@@ -1,1 +1,2 @@
 Słownik pojęć związanych z kontrolą wersji
+Repozytirium
